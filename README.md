@@ -2,7 +2,7 @@
 
 Real-time trading bot.
 
-<img src="https://github.com/smartswap-org/trading-bot/blob/main/assets/logo.jpeg?raw=true" width="250" height="250">
+<img src="https://github.com/smartswap-org/trading-bot/blob/master/assets/logo.jpeg?raw=true" width="250" height="250">
 
 `Stack`
 
